@@ -1,0 +1,6 @@
+TikTok-Api==7.1.0
+flask==2.3.3
+requests==2.31.0
+pymongo==4.5.0
+python-dotenv==1.0.0
+playwright==1.40.0
